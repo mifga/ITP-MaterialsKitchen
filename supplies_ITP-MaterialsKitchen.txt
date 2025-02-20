@@ -22,3 +22,8 @@ See [inventory_ITP-MaterialsKitchen.txt] for "permanent" tools, equipment, and f
 
 
 ## Cleaning Supplies
+
+
+# SUPPLIES LOG
+
+## 2025-02-20-1035 - [MattGriffin] Created supplies document and log.
