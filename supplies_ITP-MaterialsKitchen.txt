@@ -1,0 +1,24 @@
+# supplies_ITP-MaterialsKitchen.txt
+
+NOTE: This focuses on supplies and expendables that are frequently used and replenished. (As well as recommendations for vendors/sources and supply level.
+See [inventory_ITP-MaterialsKitchen.txt] for "permanent" tools, equipment, and furnishing.
+
+## Biomaterials Supplies
+
+
+## Bioprinter Fleet Supplies
+
+
+### Petri Dishes
+
+### Syringes
+
+
+
+## Other Tools Supplies
+
+
+## Everyday Supplies
+
+
+## Cleaning Supplies

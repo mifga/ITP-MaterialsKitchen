@@ -1,0 +1,24 @@
+# inventory_ITP-MaterialsKitchen.txt
+
+NOTE: This focuses on the "permanent" tools, equipment, and furnishings. 
+See [supplies_ITP-MaterialsKitchen.txt] for expendables and frequently used/replenished items. (And recommended sources.)
+
+## Custom & Modified Equipment
+
+
+
+## Commerical Equipment
+
+
+## Hand tools
+
+
+## Dishes, Glassware, Vessels
+
+
+## Other
+
+
+# Inventory Log
+
+## 2025-02-20-1030 - [MattGriffin] Created Inventory document and Log
